@@ -1,0 +1,8 @@
+name: Hikabrain
+version: '${version}'
+
+main: fr.chocapiks.hikabrain.Hikabrain
+api-version: '26.2'
+load: STARTUP
+
+authors: [ ChocaPiks ]

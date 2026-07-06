@@ -1,0 +1,25 @@
+game:
+  minPlayers: 2
+  maxPlayers: 2
+  pointsToWin: 5
+  timerHitDisplay: 1
+  timerStart: 3
+  mapSchem: "hika1.schem"
+
+teams:
+  - BLUE
+  - RED
+
+locations:
+  - world: world
+    x: 13.5
+    y: 12.0
+    z: 14.5
+    yaw: -90.0
+    pitch: 0.0
+  - world: world
+    x: 85.5
+    y: 11.0
+    z: 14.5
+    yaw: 90.0
+    pitch: 0.0
